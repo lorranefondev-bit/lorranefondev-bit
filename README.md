@@ -7,7 +7,7 @@ Me chamo **Lorrane F. Ferreira**, tenho 22 anos e sou natural do Rio de Janeiro.
 </p>
 
 <p align="left">
-  <a href="lorranefon.dev@gmail.com" title="Gmail">
+  <a href="https://lorranefon.dev@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   
   <a href="#" title="LinkedIn">
